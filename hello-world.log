@@ -1,0 +1,54 @@
+10:08:02,953 DEBUG SQL:109 - 
+    select
+        message0_.ID as ID1_0_0_,
+        message0_.TEXT as TEXT2_0_0_ 
+    from
+        message message0_ 
+    where
+        message0_.ID=?
+10:08:02,958 TRACE BasicBinder:81 - binding parameter [1] as [BIGINT] - [2]
+10:08:02,962 DEBUG SQL:109 - 
+    select
+        message0_.ID as ID1_0_0_,
+        message0_.TEXT as TEXT2_0_0_ 
+    from
+        message message0_ 
+    where
+        message0_.ID=?
+10:08:02,963 TRACE BasicBinder:81 - binding parameter [1] as [BIGINT] - [2]
+10:08:32,819 DEBUG SQL:109 - 
+    select
+        message0_.ID as ID1_0_0_,
+        message0_.TEXT as TEXT2_0_0_ 
+    from
+        message message0_ 
+    where
+        message0_.ID=?
+10:08:32,824 TRACE BasicBinder:81 - binding parameter [1] as [BIGINT] - [1]
+10:09:26,390 DEBUG SQL:109 - 
+    select
+        message0_.ID as ID1_0_0_,
+        message0_.TEXT as TEXT2_0_0_ 
+    from
+        message message0_ 
+    where
+        message0_.ID=?
+10:09:26,395 TRACE BasicBinder:81 - binding parameter [1] as [BIGINT] - [1]
+10:10:42,112 DEBUG SQL:109 - 
+    select
+        message0_.ID as ID1_0_0_,
+        message0_.TEXT as TEXT2_0_0_ 
+    from
+        message message0_ 
+    where
+        message0_.ID=?
+10:10:42,116 TRACE BasicBinder:81 - binding parameter [1] as [BIGINT] - [1]
+10:10:42,131 DEBUG SQL:109 - 
+    select
+        message0_.ID as ID1_0_0_,
+        message0_.TEXT as TEXT2_0_0_ 
+    from
+        message message0_ 
+    where
+        message0_.ID=?
+10:10:42,132 TRACE BasicBinder:81 - binding parameter [1] as [BIGINT] - [1]
